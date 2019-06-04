@@ -1,4 +1,5 @@
 ﻿// Энумератор ошибок глобальный 
+
 public class clsErrors
 {
     public enum GateError
